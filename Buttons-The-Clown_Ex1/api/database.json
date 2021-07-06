@@ -1,0 +1,28 @@
+{
+    "clowns": [],
+    "archives":[],
+    "reservations":[
+        {
+        "id": 1,
+        "child_name": "Lucipher",
+        "address_of_party": "1628 Garbage Field",
+        "dateOfParty": "Thu Nov 05 2020 19:35:06 GMT-0600 (Central Standard Time)",
+        "length_of_party_in_hours": ".65"
+        },
+        {
+            "id": 2,
+        "child_name": "Pickens",
+        "address_of_party": "24098 Bahringer View",
+        "dateOfParty": "Thu Nov 26 2020 08:27:38 GMT-0600 (Central Standard Time)",
+        "length_of_party_in_hours": ".5"
+        },
+        {
+            "id": 3,
+        "child_name": "Chad",
+        "address_of_party": "512 McKenzie Station",
+        "dateOfParty": "Sun Jul 04 2021 08:26:07 GMT-0500 (Central Daylight Time)",
+        "length_of_party_in_hours": "1.0"
+        }
+    ],
+    "requested_reservations":[]
+}
